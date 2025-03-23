@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/Circulo.png","/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/bin/DesktopGL/Circulo.xnb","TextureProcessor","Texture2DContent",1023,10085,0,0976361
+"/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/FuenteFutura.spritefont","/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/bin/DesktopGL/FuenteFutura.xnb","FontDescriptionProcessor","SpriteFontContent",2015,21538,0,0795438
+"/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/SpriteBase.png","/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/bin/DesktopGL/SpriteBase.xnb","TextureProcessor","Texture2DContent",3190,40085,0,0049234
+"/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/SpriteLadrillos.png","/home/dafnis/inicio/C#/BrickBreakerMonogame/Content/bin/DesktopGL/SpriteLadrillos.xnb","TextureProcessor","Texture2DContent",4957,80085,0,0049411
