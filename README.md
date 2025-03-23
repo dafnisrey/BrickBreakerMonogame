@@ -17,11 +17,12 @@ Un remake del clásico BrickBreaker, donde el jugador controla un rectángulo en
 * MonoGame
 * C#
 
-## Cómo Ejecutar
+## Cómo ejecutar
 
-1.  Descarga el código fuente.
-2.  Abre el proyecto con Visual Studio.
-3.  Compila y ejecuta el juego.
+1. Asegúrate de tener instalado el SDK de .NET.
+2. Clona el repositorio.
+3. Ejecuta `dotnet run` en la carpeta raíz del proyecto
+
 
 ## Controles
 
